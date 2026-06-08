@@ -18,7 +18,7 @@
 <p align="center">$\color{#f0fff0}{಄Im \space russian. Yes,\space  i \space understand \space english. }$</p>
 <p align="center">· · ──────────────────────────── ·· ──────────────────────────── · ·
 <p align="center">$\color{#f5544e}{DO \space  NOT \space  INTERACT}$</p>
-<p align="center">$\color{#f0fff0}{಄ people over 20, proship/darkship, homophobies, racist, xenophobies, pedo, zoo,\space  mocking \space neopronouns \space people, zt4r-, robins \space friends, others.}$</p>
+<p align="center">$\color{#f0fff0}{಄ people over 20, proship/darkship, queerphobies, racist, xenophobies, pedo, zoo,\space  mocking \space neopronouns \space people, zt4r-, robins \space friends, others.}$</p>
 
 <p align="center"> <img width="400" height="400" alt="tumblr_8aa0e485762f56c8758d3bccfdb63b66_9364a18a_1280 (1)" src="https://github.com/user-attachments/assets/daaa83c3-54c3-4061-97e7-da51c421c3d2" />
 
