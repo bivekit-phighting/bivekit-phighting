@@ -8,7 +8,7 @@
 ###
 <p align="center">$\color{#f5544e}{bivekit/kit/bive. He/she/it/any.}$</p>
 <div align="center"><img width="204" height="204" alt="image" src="https://github.com/user-attachments/assets/7a763864-27c2-4982-aeef-fd3b9183fb7a" />
-<p align="center">$\color{#f0fff0}{"How much will I get paid for this?"}$</p>
+<p align="center">$\color{#f0fff0}{"How \space much \space will \space I \space get \space paid \space for \space this?"}$</p>
 <h1 align="left"></h1>
 
 ###
